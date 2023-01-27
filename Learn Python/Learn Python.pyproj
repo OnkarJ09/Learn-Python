@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b9404f93-3952-440b-934d-519ee90ac720</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Learn_Python.py</StartupFile>
+    <StartupFile>Exercises\Greet User.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
