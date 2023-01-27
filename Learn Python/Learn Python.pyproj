@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b9404f93-3952-440b-934d-519ee90ac720</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Exercises\Greet User.py</StartupFile>
+    <StartupFile>Day's Of Learning\Day 7.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
